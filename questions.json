@@ -1,0 +1,245 @@
+[
+  {
+    "prompt": "Capital of France?",
+    "choices": ["London", "Berlin", "Paris", "Madrid"],
+    "correct_answer": "Paris",
+    "subject": "Geography"
+  },
+  {
+    "prompt": "Country with the most natural lakes?",
+    "choices": ["Canada", "Russia", "Brazil", "Australia"],
+    "correct_answer": "Canada",
+    "subject": "Geography"
+  },
+  {
+    "prompt": "Longest river in the world?",
+    "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correct_answer": "Nile",
+    "subject": "Geography"
+  },
+  {
+    "prompt": "What is the capital city of Australia?",
+    "choices": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correct_answer": "Canberra",
+    "subject": "Geography"
+  },
+  {
+    "prompt": "Which continent is Egypt located in?",
+    "choices": ["Europe", "Africa", "Asia", "South America"],
+    "correct_answer": "Africa",
+    "subject": "Geography"
+  },
+  {
+    "prompt": "What is the largest country in the world by area?",
+    "choices": ["China", "USA", "Canada", "Russia"],
+    "correct_answer": "Russia",
+    "subject": "Geography"
+  },
+  {
+    "prompt": "Which ocean is the largest on Earth?",
+    "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct_answer": "Pacific Ocean",
+    "subject": "Geography"
+  },
+  {
+    "prompt": "Which country is famous for the ancient Pyramids?",
+    "choices": ["Italy", "Egypt", "Japan", "Brazil"],
+    "correct_answer": "Egypt",
+    "subject": "Geography"
+  },
+  {
+    "prompt": "Which direction does the sun rise from?",
+    "choices": ["North", "South", "East", "West"],
+    "correct_answer": "East",
+    "subject": "Geography"
+  },
+  {
+    "prompt": "How many continents are there on Earth?",
+    "choices": ["5", "6", "7", "8"],
+    "correct_answer": "7",
+    "subject": "Geography"
+  },
+
+  {
+    "prompt": "What is 7 x 8?",
+    "choices": ["54", "56", "64", "49"],
+    "correct_answer": "56",
+    "subject": "Maths"
+  },
+  {
+    "prompt": "Square root of 144?",
+    "choices": ["10", "11", "12", "14"],
+    "correct_answer": "12",
+    "subject": "Maths"
+  },
+  {
+    "prompt": "Third angle of a triangle with two 60° angles?",
+    "choices": ["30°", "60°", "90°", "120°"],
+    "correct_answer": "60°",
+    "subject": "Maths"
+  },
+  {
+    "prompt": "What is 2 + 2?",
+    "choices": ["3", "4", "5", "22"],
+    "correct_answer": "4",
+    "subject": "Maths"
+  },
+  {
+    "prompt": "What is 10 - 5?",
+    "choices": ["2", "3", "5", "6"],
+    "correct_answer": "5",
+    "subject": "Maths"
+  },
+  {
+    "prompt": "How many sides does a triangle have?",
+    "choices": ["3", "4", "5", "6"],
+    "correct_answer": "3",
+    "subject": "Maths"
+  },
+  {
+    "prompt": "What is 5 x 5?",
+    "choices": ["10", "20", "25", "30"],
+    "correct_answer": "25",
+    "subject": "Maths"
+  },
+  {
+    "prompt": "What is half of 10?",
+    "choices": ["2", "4", "5", "6"],
+    "correct_answer": "5",
+    "subject": "Maths"
+  },
+  {
+    "prompt": "How many fingers are on one human hand?",
+    "choices": ["4", "5", "6", "10"],
+    "correct_answer": "5",
+    "subject": "Maths"
+  },
+  {
+    "prompt": "What is 100 divided by 10?",
+    "choices": ["1", "10", "100", "1000"],
+    "correct_answer": "10",
+    "subject": "Maths"
+  },
+
+  {
+    "prompt": "Keyword to define a function in Python?",
+    "choices": ["func", "def", "define", "function"],
+    "correct_answer": "def",
+    "subject": "Python"
+  },
+  {
+    "prompt": "Data type of 5.5?",
+    "choices": ["int", "str", "float", "bool"],
+    "correct_answer": "float",
+    "subject": "Python"
+  },
+  {
+    "prompt": "How to write a single-line comment in Python?",
+    "choices": ["// comment", "/* comment */", "# comment", "<!-- comment -->"],
+    "correct_answer": "# comment",
+    "subject": "Python"
+  },
+  {
+    "prompt": "Which of the following data types is immutable in Python?",
+    "choices": ["List", "Dictionary", "Tuple", "Set"],
+    "correct_answer": "Tuple",
+    "subject": "Python"
+  },
+  {
+    "prompt": "What function is used to output text to the screen in Python?",
+    "choices": ["echo()", "display()", "print()", "write()"],
+    "correct_answer": "print()",
+    "subject": "Python"
+  },
+  {
+    "prompt": "Which of these is a text string data type in Python?",
+    "choices": ["int", "str", "float", "bool"],
+    "correct_answer": "str",
+    "subject": "Python"
+  },
+  {
+    "prompt": "What do we call data that is either True or False?",
+    "choices": ["Text", "Boolean", "Number", "Float"],
+    "correct_answer": "Boolean",
+    "subject": "Python"
+  },
+  {
+    "prompt": "How do you define a code block inside a loop or function in Python?",
+    "choices": ["Semicolons (;)", "Curly braces ({})", "Indentation (Spaces)", "Periods (.)"],
+    "correct_answer": "Indentation (Spaces)",
+    "subject": "Python"
+  },
+  {
+    "prompt": "Which brackets are used to create a list in Python?",
+    "choices": ["Square brackets []", "Curly braces {}", "Parentheses ()", "Angle brackets <>"],
+    "correct_answer": "Square brackets []",
+    "subject": "Python"
+  },
+  {
+    "prompt": "What built-in Python function checks the length of a list or string?",
+    "choices": ["size()", "count()", "len()", "length()"],
+    "correct_answer": "len()",
+    "subject": "Python"
+  },
+
+  {
+    "prompt": "Which planet in our solar system currently has the most confirmed moons?",
+    "choices": ["Jupiter", "Saturn", "Mars", "Uranus"],
+    "correct_answer": "Saturn",
+    "subject": "Space"
+  },
+  {
+    "prompt": "What is the closest star to Earth?",
+    "choices": ["Alpha Centauri", "The Sun", "Sirius", "Polaris"],
+    "correct_answer": "The Sun",
+    "subject": "Space"
+  },
+  {
+    "prompt": "Which planet is known as the Red Planet?",
+    "choices": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "correct_answer": "Mars",
+    "subject": "Space"
+  },
+  {
+    "prompt": "How many planets are in our solar system?",
+    "choices": ["7", "8", "9", "10"],
+    "correct_answer": "8",
+    "subject": "Space"
+  },
+  {
+    "prompt": "Which planet is the largest in our solar system?",
+    "choices": ["Saturn", "Jupiter", "Neptune", "Earth"],
+    "correct_answer": "Jupiter",
+    "subject": "Space"
+  },
+  {
+    "prompt": "Which planet is famous for having beautiful rings around it?",
+    "choices": ["Mars", "Saturn", "Mercury", "Venus"],
+    "correct_answer": "Saturn",
+    "subject": "Space"
+  },
+  {
+    "prompt": "What is the name of the galaxy that contains our Solar System?",
+    "choices": ["Andromeda Galaxy", "Milky Way", "Sombrero Galaxy", "Whirlpool Galaxy"],
+    "correct_answer": "Milky Way",
+    "subject": "Space"
+  },
+  {
+    "prompt": "Which planet is closest to the Sun?",
+    "choices": ["Venus", "Earth", "Mercury", "Mars"],
+    "correct_answer": "Mercury",
+    "subject": "Space"
+  },
+  {
+    "prompt": "What protective suit do astronauts wear when walking in space?",
+    "choices": ["A raincoat", "A spacesuit", "A scuba suit", "Pajamas"],
+    "correct_answer": "A spacesuit",
+    "subject": "Space"
+  },
+  {
+    "prompt": "What natural object orbits around planet Earth?",
+    "choices": ["The Sun", "The Moon", "Mars", "A satellite"],
+    "correct_answer": "The Moon",
+    "subject": "Space"
+  }
+]
